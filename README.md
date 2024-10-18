@@ -3,8 +3,7 @@ Code to recreate the analysis and figures of Hänchen et al., (subm.): "A Novel 
 
 
 If you use this project in your research, please cite it using the following DOI:
-[![DOI](https://zenodo.org/badge/869491380.svg)](https://doi.org/10.5281/zenodo.13915925)
-
+[![DOI](https://zenodo.org/badge/869491380.svg)](https://doi.org/10.5281/zenodo.13952139)
 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
